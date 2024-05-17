@@ -5,5 +5,7 @@ How to try the game:
 2. run app.java
 3. enjoy
 
+Note: All you have to do is press the space-bar
+
 Built using:
 1. Java
